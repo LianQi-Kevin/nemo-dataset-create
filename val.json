@@ -1,4 +1,0 @@
-{"audio_filepath": "./wav_dataset/val/cat9.wav", "duration": 4.934240362811791, "text": "请指出哪个图片的序列号是1"}
-{"audio_filepath": "./wav_dataset/val/dog9.wav", "duration": 5.294149659863946, "text": "请指出哪个图片的序列号是2"}
-{"audio_filepath": "./wav_dataset/val/horse9.wav", "duration": 5.282539682539682, "text": "请指出哪个图片的序列号是3"}
-{"audio_filepath": "./wav_dataset/val/person9.wav", "duration": 4.818140589569161, "text": "请指出哪个图片的序列号是4"}
